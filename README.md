@@ -1,37 +1,25 @@
-BlueJourney
+# BlueJourney
+
 BlueJourney é uma aplicação web construída utilizando Next.js e TypeScript. Este projeto tem como objetivo fornecer uma plataforma abrangente para diversas interações do usuário, incluindo aprendizado, registro, informações sobre empresas, eventos e muito mais.
 
-Instalação
+## Índice
+
+1. [Instalação](#instalação)
+2. [Uso](#uso)
+3. [Estrutura do Projeto](#estrutura-do-projeto)
+4. [Scripts](#scripts)
+5. [Dependências](#dependências)
+6. [Contribuição](#contribuição)
+7. [Licença](#licença)
+
+## Instalação
+
 Para começar a utilizar o projeto BlueJourney, siga os seguintes passos:
 
-Clone o repositório:
+1. **Clone o repositório:**
 
-bash
-git clone https://github.com/seuusuario/bluejourney.git
-Navegue até o diretório do projeto:
-
-bash
-cd bluejourney
-Instale as dependências:
-
-bash
-npm install
-Uso
-Para iniciar o servidor de desenvolvimento, execute:
-
-bash
-npm run dev
-Abra seu navegador e navegue até http://localhost:3000 para ver a aplicação em ação.
-
-Para construir o projeto para produção, execute:
-
-bash
-npm run build
-Para iniciar o servidor de produção, execute:
-
-bash
-npm start
-
+   ```bash
+   git clone https://github.com/seuusuario/bluejourney.git
 Scripts
 Os seguintes scripts estão disponíveis no projeto:
 
