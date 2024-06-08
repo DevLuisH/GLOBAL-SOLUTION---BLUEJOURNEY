@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ecologia Costeira",
+        "text" : "Este curso abordaria os princípios básicos da conservação marinha, incluindo ecologia costeira, biodiversidade marinha, ameaças à vida marinha e estratégias de conservação."
+    },
+    {
+        "id" : 2,
+        "name" : " Gerenciamento de Resíduos e Limpeza Costeira",
+        "text" : "Este curso se concentraria em práticas eficazes de gerenciamento de resíduos, técnicas de limpeza costeira e estratégias para reduzir a poluição marinha."
+    },
+    {
+        "id" : 3,
+        "name" : "Educação Ambiental e Engajamento Comunitário",
+        "text" : "Este curso exploraria estratégias para envolver a comunidade na conservação marinha e na promoção de praias limpas."
+    },
+    {
+        "id" : 4,
+        "name" : "Identificação de Espécies Marinhas",
+        "text" : "Este curso seria focado na identificação de diferentes espécies marinhas encontradas em ambientes costeiros, incluindo peixes, moluscos, crustáceos, aves marinhas e mamíferos marinhos."
+    },
+    {
+        "id" : 5,
+        "name" : "Monitoramento Ambiental",
+        "text" : "Este curso capacita os participantes a se tornarem cientistas cidadãos, envolvendo-os em programas de monitoramento ambiental e coleta de dados sobre a saúde dos ecossistemas costeiros."
+    },
+    {
+        "id" : 6,
+        "name" : "Documentação Marinha",
+        "text" : "Este curso seria voltado para entusiastas da fotografia e amantes do mar, ensinando técnicas de fotografia subaquática e documentação de vida marinha."
+    }
+]

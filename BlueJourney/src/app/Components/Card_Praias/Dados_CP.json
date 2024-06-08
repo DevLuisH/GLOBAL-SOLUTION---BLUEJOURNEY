@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "name" : "Boraceia - Bertioga",
+        "text" : "Boraceia é uma praia em Bertioga, São Paulo. É conhecida por suas extensas faixas de areia e suas águas geralmente calmas, o que a torna popular entre os turistas e moradores locais."
+    },
+    {
+        "id" : 2,
+        "name" : "Boqueirão - Santos",
+        "text" : "É um dos bairros mais conhecidos e movimentados da cidade, especialmente por sua extensa faixa de praia, que é uma das principais atrações da região."
+    },
+    {
+        "id" : 3,
+        "name" : "Canto do Forte - Praia Grande",
+        "text" : "É uma das praias mais bonitas e tranquilas de Praia Grande, com uma ampla faixa de areia e águas calmas. É um local frequentado por banhistas e praticantes de esportes."
+    },
+    {
+        "id" : 4,
+        "name" : "Campos Elisios - Itanhanhem",
+        "text" : "Campos Elíseos em Itanhaém oferece uma atmosfera mais residencial e tranquila, com ruas arborizadas e uma comunidade acolhedora."
+    },
+    {
+        "id" : 5,
+        "name" : "Peruíbe",
+        "text" : "As praias de Peruíbe são um dos principais destaques da cidade, oferecendo areias brancas, águas claras e uma atmosfera tranquila."
+    },
+    {
+        "id" : 6,
+        "name" : "Aviação - Praia Grande",
+        "text" : "A Praia da Aviação é uma das praias mais movimentadas de Praia Grande, com uma ampla faixa de areia dourada e águas propícias para banho e prática de esportes aquáticos."
+    }
+
+    
+]

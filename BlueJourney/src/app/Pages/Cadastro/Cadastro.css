@@ -1,0 +1,50 @@
+.section_Cadastro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.section_Cadastro h1 {
+    font-size: 5rem;
+}
+
+.form_Cadastro {
+    width: 45rem;
+    margin: 5rem 0rem;
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    font-size: 2rem;
+    margin: 3rem 0rem 0rem 0rem;
+}
+
+.input-box input {
+    height: 7rem;
+    padding: 2rem;
+    margin-top: 0.5rem;
+    font-size: 2rem;
+    color: #0a376e;
+    background: transparent;
+    border-radius: 3rem;
+    border: 2px solid #0a376e;
+}
+
+::-webkit-input-placeholder {
+    color: rgba(0, 0, 0, 0.5);
+ }
+
+.input-box label  a {
+    margin-left: 7rem;
+    color: #0a376e;
+}
+
+
+
+.login {
+    margin-top: 1rem;
+    color: #ffffff;
+    background-color: #0a376e;
+}

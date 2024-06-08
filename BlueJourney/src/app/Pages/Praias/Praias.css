@@ -1,0 +1,22 @@
+.Praias_title {
+    margin: 5rem 2rem;
+}
+
+.Praias_title h1{
+    font-size: 5rem;
+}
+
+.cardGrid {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-gap: 3.5rem;
+    grid-template-columns: repeat(auto-fit, 35rem);
+}
+
+
+@media (max-width: 850px) {
+    .Praias_title h1 {
+        font-size: 3rem;
+    }
+}

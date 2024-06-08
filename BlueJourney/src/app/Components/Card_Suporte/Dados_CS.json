@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ajuda e documentação",
+        "text" : "Precisando de ajuda? Registre casos, encontre documentos e muito mais. Receba todo o suporte que você precisar, a qualquer momento."
+    },
+    {
+        "id" : 2,
+        "name" : "Comunidades",
+        "text" : "Descubra uma rede global de usuários e conecte-se com eles de qualquer lugar. Colabore, aprenda e some parcerias enquanto contribui para construir um futuro melhor."
+    },
+    {
+        "id" : 3,
+        "name" : "Serviços",
+        "text" : "Canal exclusivo para dúvidas sobre nossos serviços."
+    }
+]

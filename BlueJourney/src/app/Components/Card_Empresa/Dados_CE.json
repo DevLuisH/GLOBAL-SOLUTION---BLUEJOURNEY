@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sobre a BlueJourney",
+        "text" : "Descubra nossa história, nossa missão e nossos valores."
+    },
+    {
+        "id" : 2,
+        "name" : "Nossos valores",
+        "text" : "Nossos valores se baseiam nos seguintes: sustentabilidade, transparência, confiança, inovação e responsabilidade."
+    },
+    {
+        "id" : 3,
+        "name" : "Nosso impacto",
+        "text" : "Ao envolver o público em nossos eventos, a BlueJourney pode aumentar a conscientização sobre os problemas enfrentados pelos ecossistemas marinhos e a importância da conservação das praias."
+    },
+    {
+        "id" : 4,
+        "name" : "Carreiras",
+        "text" : "Inicie uma nova jornada conosco. Comece uma carreira aqui na BlueJourney."
+    },
+    {
+        "id" : 5,
+        "name" : "Notícias",
+        "text" : "Fique a par dos anúncios e notícias sobre os temas de cuidados com o mar."
+    },
+    {
+        "id" : 6,
+        "name" : "ODS 14. Vida na Água",
+        "text" : "Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável."
+    }
+]

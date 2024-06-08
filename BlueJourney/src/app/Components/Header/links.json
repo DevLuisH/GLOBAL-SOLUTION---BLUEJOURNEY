@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "name" : "Praias",
+        "href" : "/Pages/Praias"
+    },
+    {
+        "id" : 2,
+        "name" : "Eventos",
+        "href" : "/Pages/Eventos"
+    },
+    {
+        "id" : 3,
+        "name" : "Aprendizado",
+        "href" : "/Pages/Aprendizado"
+    },
+    {
+        "id" : 4,
+        "name" : "Suporte",
+        "href" : "/Pages/Suporte"
+    },
+    {
+        "id" : 5,
+        "name" : "Empresa",
+        "href" : "/Pages/Empresa"
+    }
+]
